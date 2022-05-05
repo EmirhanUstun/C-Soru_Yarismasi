@@ -1,0 +1,11 @@
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\bin\Debug\Udemy_Karar_Yapilari_Proje.exe.config
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\bin\Debug\Udemy_Karar_Yapilari_Proje.exe
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\bin\Debug\Udemy_Karar_Yapilari_Proje.pdb
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\obj\Debug\Udemy_Karar_Yapilari_Proje.csproj.AssemblyReference.cache
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\obj\Debug\Udemy_Karar_Yapilari_Proje.csproj.SuggestedBindingRedirects.cache
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\obj\Debug\Udemy_Karar_Yapilari_Proje.Form1.resources
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\obj\Debug\Udemy_Karar_Yapilari_Proje.Properties.Resources.resources
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\obj\Debug\Udemy_Karar_Yapilari_Proje.csproj.GenerateResource.cache
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\obj\Debug\Udemy_Karar_Yapilari_Proje.csproj.CoreCompileInputs.cache
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\obj\Debug\Udemy_Karar_Yapilari_Proje.exe
+D:\C# N.Y\Udemy_Karar_Yapilari_Proje\Udemy_Karar_Yapilari_Proje\obj\Debug\Udemy_Karar_Yapilari_Proje.pdb
